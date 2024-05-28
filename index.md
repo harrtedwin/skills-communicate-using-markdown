@@ -4,5 +4,9 @@
 
 ![Image of Africa](https://www.worldatlas.com/geography/regions-of-africa.html)
 
-'''
-'''
+~~~
+# This is python code
+class Africa
+    def Countries:
+pass
+~~~
